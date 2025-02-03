@@ -1,5 +1,3 @@
-# rainanalysis
-Analysis of rainfall trends in India using Python
 
 # Rainfall Trends in India Analysis with Python
 
